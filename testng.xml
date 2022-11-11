@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="WTWCOInsuranceSuite" preserve-order="true">
+	<test name="TestWTWCO" preserve-order="true" enabled="true">
+		<classes>
+			<class name="uk.liya.wtwcoinsurance.WTWCOTest.WTWTCOInsuranceTest" />
+		</classes>
+	</test>
+</suite>
